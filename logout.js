@@ -1,0 +1,1 @@
+request.session.loggedin = false;
